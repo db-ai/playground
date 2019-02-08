@@ -1,5 +1,10 @@
 # Changelog
 
+## Version 0.4.0 (8 Feb 2019)
+
+* Core: Add Explain output for Find and Aggregate commands
+* UI: Find And Modify editor now fully loads (was broken by 0.3.1)
+
 ## Version 0.3.1 (7 Feb 2019)
 
 * Core: Fix issue with EJSON integation, that broke some playgrounds.
