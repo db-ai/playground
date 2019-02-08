@@ -17,4 +17,3 @@ Limitations:
 
 * You can't create indexes yet
 * You are limited to one collection per playround yet
-* `$lookup` stae
