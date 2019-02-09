@@ -1,5 +1,10 @@
 # Changelog
 
+## Version 0.4.1 (10 Feb 2019)
+
+* UI: Update, Query & Aggregate Operator snippets are added
+* UI: Aggregation snippets are loaded only in Aggregation playground
+
 ## Version 0.4.0 (8 Feb 2019)
 
 * Core: Add Explain output for Find and Aggregate commands
