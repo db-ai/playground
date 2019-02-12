@@ -10,10 +10,10 @@ Features:
   * Find
   * FindAndModify
   * Update
-  * Aggreagte
+  * Aggregate
 * Playgrounds can be shared
 
 Limitations:
 
 * You can't create indexes yet
-* You are limited to one collection per playround yet
+* You are limited to one collection per playground yet
