@@ -7,7 +7,7 @@
 * Core: Emit EJSON events and use them to react on state changes
 * UI: Show confirmation dialog when leaving playground with unsaved changes
 * UI: Allow running queries with a keyboard shortcut: Cmd/Ctrl+Enter
-* UIL Highlight matching brackets
+* UI: Highlight matching brackets
 * UI: Reduce flickering on inital load in Chrome
 * UI: Restore style of validation messages (was broken by 0.4.1)
 
