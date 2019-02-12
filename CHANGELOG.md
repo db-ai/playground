@@ -1,5 +1,13 @@
 # Changelog
 
+## Version 0.5 (12 Feb 2019)
+
+* UI: Show confirmation dialog when leaving playground with unsaved changes
+* UI: Allow running queries with a keyboard shortcut: Cmd/Ctrl+Enter
+* UIL Highlight matching brackets
+* UI: Reduce flickering on inital load in Chrome
+* Core: Emit EJSON events and use them to react on state changes
+
 ## Version 0.4.1 (10 Feb 2019)
 
 * UI: Update, Query & Aggregate Operator snippets are added
