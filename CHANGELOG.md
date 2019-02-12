@@ -2,11 +2,14 @@
 
 ## Version 0.5 (12 Feb 2019)
 
+* Core: Show error message when query or collections is empty string
+* Core: Show error message when query failed to execute
+* Core: Emit EJSON events and use them to react on state changes
 * UI: Show confirmation dialog when leaving playground with unsaved changes
 * UI: Allow running queries with a keyboard shortcut: Cmd/Ctrl+Enter
 * UIL Highlight matching brackets
 * UI: Reduce flickering on inital load in Chrome
-* Core: Emit EJSON events and use them to react on state changes
+* UI: Restore style of validation messages (was broken by 0.4.1)
 
 ## Version 0.4.1 (10 Feb 2019)
 
