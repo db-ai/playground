@@ -1,5 +1,10 @@
 # Changelog
 
+## Version 0.6 (10 June 2019)
+
+* Core: Allow non-ASCII symbols in strings
+* Core: Show proper error message when query document is invalid
+
 ## Version 0.5 (12 Feb 2019)
 
 * Core: Show error message when query or collections is empty string
