@@ -1,5 +1,20 @@
 # Changelog
 
+## Version 0.6.3 (23 Mar 2020)
+
+* Core: Rdirect back to snippet when edit key doesn't match
+* Core: Show error message when collection failed to create
+
+## Version 0.6.2 (19 Mar 2020)
+
+* UI: Disallow `?edit=` in robots.txt
+* CI: Report deploys to Rollbar
+
+## Version 0.6.1 (19 Mar 2020)
+
+* Core: MongoDB v4.2 compatibility
+* Core: Temporary databases are cleaned even when command sequence is failed
+
 ## Version 0.6 (10 June 2019)
 
 * Core: Allow non-ASCII symbols in strings
