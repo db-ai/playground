@@ -1,8 +1,14 @@
 # Changelog
 
+## Version 0.6.4 (24 Jun 2020)
+
+* Core: Allow identifier names (aka 'unqoted' strings) as keys
+* Core: Show error message when ISODate is invalid
+* UI: Resize data editor when split panel size changed
+
 ## Version 0.6.3 (23 Mar 2020)
 
-* Core: Rdirect back to snippet when edit key doesn't match
+* Core: Redirect back to snippet when edit key doesn't match
 * Core: Show error message when collection failed to create
 
 ## Version 0.6.2 (19 Mar 2020)
