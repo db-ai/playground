@@ -1,5 +1,16 @@
 # Changelog
 
+## Version 1.0.1 (12 Sep 2023)
+
+* UI: Replace Google Analytics with Plausible, to preserve your privacy in GDPR compaint way
+
+## Version 1.0.0 (12 Sep 2023)
+
+Playground is back 🥳
+
+* Core: Update dependencies
+* CI: Automatic deployments
+
 ## Version 0.6.4 (24 Jun 2020)
 
 * Core: Allow identifier names (aka 'unqoted' strings) as keys
