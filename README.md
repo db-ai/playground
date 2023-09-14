@@ -1,6 +1,6 @@
 # DB — AI: MongoDB Playground 
 
-Give it a spin: https://play.db-ai.co
+Give it a spin: https://play.db-ai.dev
 
 Features:
 
